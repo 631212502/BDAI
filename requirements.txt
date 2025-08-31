@@ -1,0 +1,7 @@
+pyshark==0.4.5
+lxml==4.9.1
+flask==2.2.2
+python-dateutil==2.8.2
+pyiec61850==1.4.0
+matplotlib==3.6.2
+networkx==2.8.8
